@@ -24,6 +24,7 @@ class BST(Generic[T, K]):
         functions
         """
         self.root = None
+        self.key = None
 
         ...
 
